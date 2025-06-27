@@ -1,10 +1,11 @@
 # Zomato-Restaurant-Analysis-using-Power-BI
 
 🍽️ Zomato Restaurants Analysis Dashboard
-##📊 Project Overview
+
+📊** Project Overview**
 This Power BI dashboard provides a comprehensive analysis of Zomato's restaurant data across various cities and countries. The aim is to visualize key metrics that influence dining preferences, restaurant performance, and customer behaviors.
 
-#📌 Key Features
+📌** Key Features**
 Total Restaurants: 9,551
 
 Cuisines Covered: 250
